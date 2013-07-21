@@ -12,3 +12,11 @@ Read more in this blog post:
 http://grasuth.com/2010/11/03/remap-key-on-uk-keyboards/
 
 
+License
+-------
+
+In the public domain. Use as you will.  It may not work for you.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
